@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Ora</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Wed, 04 Feb 2026 18:49:27 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/benedict2310/ora/releases/download/v1.0.0/Ora-1.0.0.dmg" length="32046803" type="application/octet-stream" sparkle:edSignature="Ekuk/44E3bzlBrpUh6yLuhKDMcEkkDp8ygyGpD6yvYZg6wMup2Do7fnZBd/WkuQFMGTRbh416KEIpwYtX453Bw=="/>
+        </item>
+    </channel>
+</rss>
