@@ -3,12 +3,12 @@
     <channel>
         <title>Ora</title>
         <item>
-            <title>1.0.0</title>
-            <pubDate>Wed, 04 Feb 2026 18:49:27 +0100</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <title>1.0.1</title>
+            <pubDate>Tue, 10 Feb 2026 12:51:40 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/benedict2310/ora/releases/download/v1.0.0/Ora-1.0.0.dmg" length="32046803" type="application/octet-stream" sparkle:edSignature="Ekuk/44E3bzlBrpUh6yLuhKDMcEkkDp8ygyGpD6yvYZg6wMup2Do7fnZBd/WkuQFMGTRbh416KEIpwYtX453Bw=="/>
+            <enclosure url="https://github.com/benedict2310/ora/releases/download/v1.0.1/Ora-1.0.1.dmg" length="32514130" type="application/octet-stream" sparkle:edSignature="d/NB6Cc0OVQ1yzvcRVhNpYC8f9uPQD+K5Hv5j8ChCMofXgvh9IZeIB0llxYRsqZMOPbJqukOMRKoqphuUq9DCA=="/>
         </item>
     </channel>
 </rss>
